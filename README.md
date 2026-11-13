@@ -32,6 +32,7 @@ graph TD
     C --> D
     Infrastructure --> Domain
     Application --> Domain
+   ```
 
 ## Інструкція зі збірки і запуску
 
